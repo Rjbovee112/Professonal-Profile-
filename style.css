@@ -40,8 +40,8 @@
 #pic{
     border-radius: 15px;
     background-position: auto;
-    background-repeat: auto;
-    padding: 15px;
+    background-repeat: repeat;
+    padding: 10px;
     max-width: fit-content;
     height: auto;
 }
