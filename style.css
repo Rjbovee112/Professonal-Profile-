@@ -10,15 +10,11 @@
 .midsec {
     
     margin-top: 100px;
-    background-color: clear
-    border-radius: 15px;
-    background-position: left top;
-    background-repeat: repeat;
-    padding: auto;
+    background-color: clear;
     width: auto;
     height: auto;
     margin-bottom: 100px;
-    padding: 10px
+
 }
 
 .body{
@@ -72,4 +68,10 @@ body {
       background-color:#148c89;
       border-color: #148c89;
       color: white ;
+  }
+
+  .form-group {
+      color: black ;
+      font-weight: normal;
+      font-size: large;
   }
