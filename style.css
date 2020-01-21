@@ -19,8 +19,6 @@
     min-height: 100vh;
 }
 
-
-
 .containerind{
     margin-top: 100px;
     margin-right: 100px;
@@ -53,3 +51,11 @@
     margin-top: auto;
     text-align: center;
 }
+
+body {
+    background-image: url('Assets/beach-foam-landscape-nature-533923\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
