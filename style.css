@@ -79,3 +79,8 @@ body {
       font-weight: normal;
       font-size: large;
   }
+
+  .row {
+      padding: 10px;
+      margin-bottom: 100px;
+  }
