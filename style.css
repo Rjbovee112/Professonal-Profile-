@@ -10,7 +10,7 @@
 .midsec {
     
     margin-top: 100px;
-    background-color: white;
+    background-color: clear
     border-radius: 15px;
     background-position: left top;
     background-repeat: repeat;
@@ -34,6 +34,7 @@
     margin-bottom: 100px;
 }
 
+
 #pic{
     padding: 10px;
 }
@@ -42,7 +43,6 @@
     height: 200px;
     width: 200px;
     margin: 10px;
-    border: 2px solid purple;
 }
 
 .img1{
@@ -66,4 +66,10 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+  }
+
+  .btn-primary {
+      background-color:#148c89;
+      border-color: #148c89;
+      color: white ;
   }
