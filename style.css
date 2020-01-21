@@ -25,22 +25,25 @@
 
 .jumbotron {
     background-color: clear;
-    border: solid red 2px;
     margin-top: 100px;
     margin-right: 100px;
     margin-left: 100px;
     margin-bottom: 100px;
+    padding: 2px;
 }
 
 .insideJT {
-    border: solid red 2px;
     font-weight: normal;
 }
 
 
 #pic{
-    padding: 10px;
-    border: royalblue soild 2px;
+    border-radius: 15px;
+    background-position: auto;
+    background-repeat: auto;
+    padding: 15px;
+    max-width: fit-content;
+    height: auto;
 }
 
 .project{
