@@ -17,7 +17,7 @@
 }
 
 .jumbotron {
-    margin-top: 100px;
+    margin-top: 25px;
     margin-right: 100px;
     margin-left: 100px;
     margin-bottom: 100px;
@@ -83,21 +83,12 @@ body {
   .row {
       padding: 15px;
       margin: 20px;
-      margin-top: 20px;
-      margin-bottom: 20px;
-      margin-left: 20px;
-      margin-right: 20px;
+      margin-top: auto;
+      margin-bottom: 100px;
+      margin-left: auto;
+      margin-right: auto;
   }
 
-  .row2 {
-    padding: 15px;
-    margin: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-
-  }
 
   #Projects {
       text-align: center;
@@ -117,7 +108,7 @@ body {
     padding: 20pxpx;
     margin: 20px;
     margin-top: auto;
-    margin-bottom: auto;
+    margin-bottom: 100px;
     margin-left: auto;
     margin-right: auto;
   }
