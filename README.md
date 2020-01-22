@@ -26,3 +26,9 @@ Bootstrap
 
 The hardest issues I faced was getting everything lined up, information boxes where I wanted them, and links to go to the correct sites.  The navbar was also tricky getting all the navagation links in there as well.
 
+### Links
+
+https://rjbovee112.github.io/Professonal-Profile-/profile.html
+
+https://github.com/Rjbovee112/Professonal-Profile-
+
