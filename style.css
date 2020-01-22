@@ -87,7 +87,15 @@ body {
       margin-bottom: 20px;
       margin-left: 20px;
       margin-right: 20px;
+  }
 
+  .row2 {
+    padding: 15px;
+    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 
   }
 
@@ -104,3 +112,4 @@ body {
       opacity: 0.5;
       height: 20px;
   }
+
