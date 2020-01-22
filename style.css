@@ -81,6 +81,22 @@ body {
   }
 
   .row {
-      padding: 10px;
-      margin-bottom: 100px;
+      padding: 0;
+      margin: auto;
+      margin-top: 25px;
+      margin-bottom: 25px;
+
+  }
+
+  #Projects {
+      text-align: center;
+      color: white;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      opacity: 0.5;
+  }
+
+  .card-text {
+      text-align: center;
+      opacity: 0.5;
   }
